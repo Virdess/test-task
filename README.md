@@ -17,10 +17,11 @@ Run client side.
 
 
 ################################
-##### used frameworks
+##### 
+#used frameworks
 
-# client
+## client
 react-router-dom@5.2.0, react-router-dom, http-proxy-middleware, axios, react.
 
-# server
+## server
 bcrypt, express-validator, dotenv, node-sass, nodemon concurrently, mongoose, express.
