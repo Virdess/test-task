@@ -1,0 +1,97 @@
+.h-p-header
+{
+    color: white;
+    padding: 5%;
+    text-transform: uppercase;
+    font-family: 'Comfortaa', cursive;
+}
+
+.home-page-content
+{
+    width: 100%;
+    text-align: center;
+}
+
+.pos-rel{
+    position: relative;
+    height:150px;
+    i{
+        position: absolute;
+        top: 30%;
+        left: 30%;
+    }
+}
+
+.flex-container{
+    display: flex !important;
+    padding-bottom: 10%;
+    justify-content: space-around;
+}
+
+.wrap{
+    flex-wrap: wrap;
+}
+
+.items-center{
+    align-items: center
+}
+
+.text-center
+{
+    text-align: center !important;
+}
+
+.div-circle
+{
+    border-radius: 50%;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.activator{
+    color: white;
+}
+
+.card
+{
+    text-transform: uppercase;
+}
+
+.card-title-comfortaa
+{
+    font-family: 'Comfortaa', cursive !important;
+}
+
+.p-b-6{
+    padding-bottom: 6rem;
+}
+
+.w-3
+{
+    width: 320px;
+}
+
+.date
+{
+    padding-top: 20%;
+}
+
+.cover
+{
+    overflow: hidden
+}
+
+.post
+{
+    display: flex !important;
+    align-items: center;
+    margin-bottom: 0 !important;
+}
+
+.post img {
+    max-height: 500px;
+}
+
+.post > .col {
+    padding: 0 !important;
+}
