@@ -17,7 +17,7 @@ Run client side.
 
 
 ################################
-##### node modules
+##### used frameworks
 
 # client
 react-router-dom@5.2.0, react-router-dom, http-proxy-middleware, axios, react.
