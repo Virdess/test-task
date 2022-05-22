@@ -3,7 +3,7 @@
 
 ### `npm run dev`
 
-Run client & server. Type it in console, dir .\todo-mern-app-master
+Run client & server. Type it in console, dir .\test-task
 
 # `npm run serve`
 
